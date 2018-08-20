@@ -20,7 +20,7 @@ We mainly meet our needs through three functions:
 
 ### Sample result
 
-The result of this project is an ArcGIS tool, ***[FinalAss.tbx](https://github.com/MingleChou/FinalProject_IP-Geo-Application_Devalopment/blob/master/FinalAss.tbx)***, that can be used directly in ArcGIS Pro. The result we obtained using the test data is shown below:
+The result of this project is an ArcGIS tool, ***[FinalAss.tbx](https://github.com/MingleChou/FinalProject_IP-Geo-Application_Devalopment/blob/master/FinalAss.tbx),*** that can be used directly in ArcGIS Pro. The result we obtained using the test data is shown below:
 
 ![Sample result: Landform type](https://github.com/MingleChou/FinalProject_IP-Geo-Application_Devalopment/blob/master/ExampleResult.png "Landform Type")
 
