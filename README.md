@@ -14,4 +14,9 @@ We mainly meet our needs through three functions:
 
 + *calRelief(demData, reliefSize)*: The terrain relief is calculated by DEM. This will classify Geomorphology.
 
-+ *calRiver(demData)*: 
++ *calRiver(demData)*: Use the Fill() function in the ArcGIS API to fill the DEM data to get flow direction and accumulation. The rivers and non-rivers are then binary-classified to obtain river elements.
+
++ *toPdf(aprxPath, pdfPath, mapExtent)*: This function is used to visualize Geomorphology classification results along with river features in a thematic map and then save it as a PDF file. Map templates are required to automatically create thematic maps through the program., so we designed the template in advance and passed it as a parameter to this function.
+
+### Sample result
+![Result](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
