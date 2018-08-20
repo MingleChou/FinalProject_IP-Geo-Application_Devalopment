@@ -19,4 +19,11 @@ We mainly meet our needs through three functions:
 + *toPdf(aprxPath, pdfPath, mapExtent)*: This function is used to visualize Geomorphology classification results along with river features in a thematic map and then save it as a PDF file. Map templates are required to automatically create thematic maps through the program., so we designed the template in advance and passed it as a parameter to this function.
 
 ### Sample result
-![Result](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
+
+The result of this project is an ArcGIS tool, ***FinalAss.tbx(https://github.com/MingleChou/FinalProject_IP-Geo-Application_Devalopment/blob/master/FinalAss.tbx)*** that can be used directly in ArcGIS Pro. The result we obtained using the test data is shown below:
+
+![Sample result: Landform type](https://github.com/MingleChou/FinalProject_IP-Geo-Application_Devalopment/blob/master/ExampleResult.png "Landform Type")
+
+### Contribution
+
+The project was completed by Yiwen Liu, Jiemin Zhou and Jin Ma. Yiwen Liu is responsible for the completion of the literature research on the classification of Geomorphology and the realization of this part; Jiemin Zhou is responsible for part of the work of thematic map production, as well as program integration and improvement and project management on Github; Jin Ma is responsible for the river features extraction and thematic map production. All of us contributed in the program comments and documentation. The contribution of each of us accounts for 35%, 33%, and 32% of the total workload.
